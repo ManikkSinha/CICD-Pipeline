@@ -2,7 +2,6 @@
 
 In this project, you will build a continuous integration pipeline using Cloud Source Repositories, Cloud Build, build triggers, and Container Registry.
 
-![0hYrmLCtV96fbLY7rct7Ue94xgf6OUG+O930FbxOeuA=](https://github.com/logicopslab/CICD-Pipeline/assets/82759985/c1dcc6c3-abb7-4925-8a71-b00b60ddbf80)
 
 **Prerequisites**
 
